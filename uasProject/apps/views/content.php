@@ -1,12 +1,12 @@
  <?php 
-  <!-- Kelas -->
+  /* Kelas */
     <div class="container-fluid">
       <div class="container-fluid">
         <h2 style="font-weight: bold; font-size: 34px">
           Kelas Terbuka Berbasis Industri
         </h2>
         <div class="row">
-          <!-- Card Kelas -->
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -25,8 +25,8 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
-          <!-- Card Kelas -->
+          /* End Card Kelas */
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -45,8 +45,8 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
-          <!-- Card Kelas -->
+          /* End Card Kelas */
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -65,8 +65,8 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
-          <!-- Card Kelas -->
+          /* End Card Kelas */
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -85,8 +85,8 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
-          <!-- Card Kelas -->
+          /* End Card Kelas */
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -105,8 +105,8 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
-          <!-- Card Kelas -->
+          /* End Card Kelas */
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -125,8 +125,8 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
-          <!-- Card Kelas -->
+          /* End Card Kelas */
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -145,8 +145,8 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
-          <!-- Card Kelas -->
+          /* End Card Kelas */
+          /* Card Kelas */
           <div class="col-md-3">
             <div class="card mb-3">
               <img
@@ -165,9 +165,9 @@
               </div>
             </div>
           </div>
-          <!-- End Card Kelas -->
+          /* End Card Kelas */
         </div>
       </div>
     </div>
-    <!-- End-Kelas -->
+    /* End-Kelas */
     ?>
